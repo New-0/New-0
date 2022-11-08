@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=wave&
-color=auto&
-height=300&
-section=header&
-text=깃허브%20특강&
-fontSize=90)
+[![header](https://capsule-render.vercel.app/api?height=400&text=깃허브%20특강&desc=한번에%20깃허브%20끝내기)]
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=New-0)](https://github.com/New-0)
 
