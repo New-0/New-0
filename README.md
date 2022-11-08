@@ -1,16 +1,32 @@
+![header](https://capsule-render.vercel.app/api?
+type=wave&
+color=auto&
+height=300&
+section=header&
+text=깃허브%20특강&
+fontSize=90)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=New-0)](https://github.com/New-0)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=New-0&show_icons=true&theme=radical)](https://github.com/New-0)
+
 ### Hi there 👋
 
-<!--
-**New-0/New-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# h1
+## h2
+### h3
+---
 
-Here are some ideas to get you started:
+**bold**
+*기울임*
+~~취소선~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>인용구
+* 짜잔
+
+[네이버 링크](www.naver.com)
+```
+print("어쩌구 저쩌구")
+```
+
+:smirk
