@@ -1,4 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?height=400&text=깃허브%20특강&desc=한번에%20깃허브%20끝내기)]
+![header](https://capsule-render.vercel.app/api?height=400&text=깃허브%20특강&desc=한번에%20깃허브%20끝내기)
+
+![header](./image/모델2.jpg)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&&animation=fadeIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=New-0)](https://github.com/New-0)
 
